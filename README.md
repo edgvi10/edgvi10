@@ -1,3 +1,5 @@
+[![EDGVI10's github stats](https://github-readme-stats.vercel.app/api?username=edgvi10&show_icons=true&theme=radical)](https://github.com/edgvi10/)
+
 👋 Hi, I’m @edgvi10
 
 👀 I’m interested to make some noise...
